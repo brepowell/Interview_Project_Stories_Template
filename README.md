@@ -1,6 +1,8 @@
 # Interview_Project_Stories_Template
 Fill this out during / after every project you complete to keep fresh stories in your head for behavioral interviews. Keep the "Prompt" column, but replace the "Details" column with your own stories.
 
+When you have an upcoming interview, be sure to review all of your projects so you can answer interview questions off the top of your head.
+
 # Year and Position
 
 | Prompt | Details |
